@@ -25,9 +25,10 @@
 ## 📫 Contact
 - GitHub: https://github.com/andythongkipt
 - LinkedIn: https://www.linkedin.com/in/andy-undefined-2262812a9/
+- Gmail : andythongkipt26@gmail.com
 
 <br>
-<img src="https://skillicons.dev/icons?i=java,python,cs,cpp,html,css,js,php,unity&perline=5" height="80">
+<img src="https://skillicons.dev/icons?i=python,html,css,js,SQLite unity&perline=5" height="80">
 <br><br>
 
 ## Connect with me <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Handshake.gif" width = "70px">
@@ -42,5 +43,3 @@
   </a>
 
 <br><br><br><br>
-
-**⭐️ From [TheDudeThatCode](https://github.com/TheDudeThatCode)**
