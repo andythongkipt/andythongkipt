@@ -1,5 +1,31 @@
 # Andy Thongkipt; 
-## 💻 Activity
+# 👋 Hi, I'm Andy
+
+🎓 Computer Science Student  
+💻 Aspiring Software Engineer | Data & AI Enthusiast  
+📍 Bangkok, Thailand  
+
+---
+
+## 🔧 Tech Stack
+- **Languages:** Python, SQL, HTML, CSS  
+- **Frameworks:** Flask, Bootstrap  
+- **Data / AI:** Pandas, Scikit-learn  
+- **Tools:** Git, GitHub, SQLite  
+
+---
+
+## 🚀 Featured Projects
+- 🍜 **Local Street Food POS** – Web-based POS system (CS50x Final Project)
+- 📊 **ML Vulnerability Analysis** – Classification & insights
+- 🖼 **Image Processing / YOLOv8** – Object detection project
+
+---
+
+## 📫 Contact
+- GitHub: https://github.com/andythongkipt
+- LinkedIn: (ใส่ถ้ามี)
+
 <br>
 <img src="https://skillicons.dev/icons?i=java,python,cs,cpp,html,css,js,php,unity&perline=5" height="80">
 <br><br>
