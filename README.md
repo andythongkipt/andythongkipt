@@ -24,7 +24,7 @@
 
 ## 📫 Contact
 - GitHub: https://github.com/andythongkipt
-- LinkedIn: [(ใส่ถ้ามี)](https://www.linkedin.com/in/andy-undefined-2262812a9/)
+- LinkedIn: https://www.linkedin.com/in/andy-undefined-2262812a9/
 
 <br>
 <img src="https://skillicons.dev/icons?i=java,python,cs,cpp,html,css,js,php,unity&perline=5" height="80">
