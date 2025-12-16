@@ -8,7 +8,7 @@
 ---
 
 ## 🔧 Tech Stack
-- **Languages:** Python, SQL, HTML, CSS  
+- **Languages:** Python, SQL, HTML, CSS , js 
 - **Frameworks:** Flask, Bootstrap  
 - **Data / AI:** Pandas, Scikit-learn  
 - **Tools:** Git, GitHub, SQLite  
