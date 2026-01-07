@@ -24,5 +24,5 @@
 
 ## 📫 Contact
 - GitHub: https://github.com/andythongkipt
-- LinkedIn: https://www.linkedin.com/in/andy-undefined-2262812a9/
+- LinkedIn: https://www.linkedin.com/in/andy-thongkipt
 - Gmail : andythongkipt26@gmail.com
